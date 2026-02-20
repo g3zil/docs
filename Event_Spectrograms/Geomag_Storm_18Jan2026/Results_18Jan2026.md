@@ -1,4 +1,4 @@
-## 18 January 2026 (prior day Sunset 2347 UTC), Sunrise 1330 UTC
+## 18 January 2026 (prior day sunset 2347 UTC sunrise 1330 UTC)
 
 ![Doppler Spectrogram of WWV 10 MHz at N6RFM on 18 January 2026](https://github.com/user-attachments/assets/121350de-a827-4c6f-8ecf-fe1d9a3decb8)
 
