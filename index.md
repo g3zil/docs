@@ -15,9 +15,8 @@ Principles_of_Operation/WSPRDaemon_GRAPE.md
 :maxdepth: 2
 :caption: Event_Spectrograms
 
-Event_Spectrograms/Geomag_Storm_18Jan2026/Station_Details.md
-Event_Spectrograms/Geomag_Storm_18Jan2026/Brief_Introduction.md
-Event_Spectrograms/Geomag_Storm_18Jan2026/Results_18Jan2026.md
+Event_Spectrograms/Geomag_Storm_18Jan2026.md
+
 
 
 
