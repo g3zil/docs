@@ -44,5 +44,37 @@ While it is common to assume Doppler shift to be caused by vertical motion of th
 * E.	 ~1500 Start of near-zero Doppler shift E region propagation, persisting until ~2200.
 * F.	 ~1730 abrupt F region propagation start at ~ 1730 with over 2 Hz Doppler shift. At four hours after local sunrise this is not the usual morning event (as on the 19th): it is unusual and deserves in-depth study to understand how/why the geomagnetic storm delayed normal band opening time (reduced electron density?).  ~1800 lower-amplitude two-hop propagation begins (F1) with significant Doppler shift. Why there is such a radical difference in Doppler shift variations for the one-hop and two-hop paths truly deserves an in-depth study. One hypothesis to test is whether the one-hop path was perhaps via the F1 layer at the base of the F region and the two-hop path via the higher F2 layer. The associated hypothesis is that the F1 layer behaves more like the E region with less Doppler variation than via the F2 layer.
 
+#### 21 January 2026 (prior day sunset 2350 UTC sunrise 1330 UTC)
+![Figure 4 21 January 2026](https://github.com/user-attachments/assets/378a4789-9697-470e-81c1-d64c3649534b)
 
+* A.	~0000-0030 Propagation effectively ends with dramatic negative Doppler
+* B.	~0030-0300 Very weak two-hop side scatter via the F region.
+* C.	~0300-1015 The red trace must be great circle path one-hop F region propagation because of a) its narrow spectral width (it is a fine trace) signifying great circle path and b) the Doppler variations distinguish it from steady near-zero Doppler for propagation characteristic of E region paths. C1 weak and very wide traces are two-hop sidescatter from the F region likely from multiple locations. Large positive and negative two-hop sidescatter Doppler shifts C2 and C3 are very unusual and deserve further investigation as to the likely cause.
+* D.	~ 1015-1330 Two-hop sidescatter via the F region.
+* E.	~1315 Near-zero Doppler indication propagation via the E region and persisting for the rest of the day.
+* F.	 One-hop propagation via the F region begins at normal time, and persists throughout the day. The weaker trace F1 is the higher elevation ray. F2 is two-hop via the F region and persists as a weak trace throughout the day.
 
+#### 22 January 2026 (prior day sunset 2350 UTC sunrise 1329 UTC)
+![Figure 5 22 January 2026](https://github.com/user-attachments/assets/a346f01e-2646-4152-9fad-d8e49802f70f)
+
+* A.	~ 0000-0045 One-hop F region propagation path persists then rapidly closes, with A1 being the negative Doppler and reducing higher elevation ray.
+* B.	~0045-0415 very weak two hop sidescatter.
+* C.	weak fine traces likely artifacts.
+* D.	~1345 band opens with one hop F region propagation that persists through the day with D1 being the higher elevation ray. D2 is two-hop F region propagation that also persists through the day. Again, we have the question of why there is greater Doppler variability (TID?) on the higher altitude two-hop path than the lower altitude one-hop path.
+* E.	It is not clear exactly when the E region path opened but it is present from ~1500 until ~ 2200.
+
+#### Summary
+The spectrograms shown above highlight a variety of changes to the ionosphere observed as a consequence of the long-duration X1.9-class solar flare CME of 18 January 2026 hitting the Earth.  The 10 MHz paths were, as expected, primarily via the F region of the ionosphere.  Other radio wave propagation features included lower amplitude, wider spectral width (fuzzy, ghostly, yellow or green) two-hop F region sidescatter propagation, narrow spectral width near-zero Doppler traces from E-region propagation and disturbances from the CME-induced geomagnetic storm and travelling ionospheric disturbances. 
+The impact and timing of events further indicate that the CME had several effects including:
+● An initial shock wave seen in magnetometer data at ~1920 UTC 19 January 2026.  Easily seen in the (offscale!) Auroral Electroject Index for 19 January 2026 at (https://wdc.kugi.kyoto-u.ac.jp/ae_realtime/202601/index_20260119.html) 
+●	A step change in Doppler shift from the arrival of a disturbance at the (likely) northern location of the first reflection on the two-hop path from WWV to N6RFM at ~2017 UTC.
+●	A step change in Doppler shift from the arrival of a disturbance at the midpoint of the one-hop path from WWV to N6RFM at ~2041 UTC.
+●	Slower travelling components and or follow-on disturbances arriving from ~ 0300-1000 on 20 January 26 and trailing components arriving from ~0500-1000 21 January 2026. 
+●	On multiple occasions, TIDs were also observed.
+
+#### References
+Chum, J. et al., 2018. Continuous Doppler sounding of the ionosphere during solar flares. Earth Planets Space, 70, pp.1-19. [Online](https://link.springer.com/content/pdf/10.1186/s40623-018-0976-4.pdf)
+Collins, K., Montare, A., Frissell, N. and Kazdan, D., 2021. Citizen scientists conduct distributed doppler measurement for ionospheric remote sensing. IEEE Geoscience and Remote Sensing Letters, 19, pp.1-5. [Online](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9377452)
+Collins, K., Gibbons, J., Frissell, N., Montare, A., Kazdan, D., Kalmbach, D., Swartz, D., Benedict, R., Romanek, V., Boedicker, R. and Liles, W., 2022. Crowdsourced Doppler measurements of time standard stations demonstrating ionospheric variability. Earth System Science Data Discussions, 2022, pp.1-21. [Online](https://essd.copernicus.org/articles/15/1403/2023/essd-15-1403-2023.pdf)
+Griffiths, G., Diehl, D.M., Robinett, R.S. and Rhymes, R.L., 2023. HF Two-hop Sidescatter: Identification, Modeling and Observations of an Underappreciated Propagation Mode. In AGU Fall Meeting Abstracts (Vol. 2023, pp. SA01-01).
+Griffiths, G., 2025. Post-sunset sporadic F propagation: A sign of electron density isopleth convergence? HamSCI Workshop, March 2025. [Online](https://hamsci.org/publications/post-sunset-sporadic-f-propagation-sign-electron-density-isopleth-convergence)
