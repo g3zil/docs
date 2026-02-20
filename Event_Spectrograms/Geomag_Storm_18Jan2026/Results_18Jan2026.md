@@ -1,7 +1,6 @@
 ## 18 January 2026 (prior day Sunset 2347 UTC), Sunrise 1330 UTC
 
 ![Doppler Spectrogram of WWV 10 MHz at N6RFM on 18 January 2026](https://github.com/user-attachments/files/25446894/Figure.1.18.January.2026.pdf)
-<img width="904" height="894" alt="image" src="https://github.com/user-attachments/assets/f69dd56e-32cd-441a-a341-0c47ab637569" />
 
 * A.	~ 0000-0145 F region propagation with minimal, but variable Doppler, the path then rapidly closed. Very light thin-trace reflections above and below the main signal are Grape-1 receiver system mixing artifacts.
 * B.	~ 0145-1000 Very weak, fuzzy (wide spectrum) trace consistent with two-hop sidescatter via the F region (Griffiths et al., 2023). Somewhat stronger signals with near zero-Doppler at B1 and B2 may have been from sporadic E (Es) propagation. Ionosonde data is very useful for checking the possibility of Es. However, ionosondes are few and those that openly report data even fewer. The ionosonde near Austin TX, some 800 km SSE of the WWV-N6RFM midpoint did show weak Es around 0600 UTC (click AU930 then find date at https://giro.uml.edu/ionoweb/#).
