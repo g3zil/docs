@@ -22,7 +22,7 @@ On January 18, 2026, the Sun produced a long-duration [X1.9-class solar flare](h
 * F.	~ 2030-2345 First, weak E region propagation with near-zero Doppler, then both F region one-hop (red) and weaker and more variable (yellow) propagation is observed.  The latter is consistent with two-hop F region propagation.
 
 #### 19 January 2026 (prior day sunset 2348 UTC sunrise 1330 UTC)
-![Doppler Spectrogram of WWV 10 MHz at N6RFM on 19 January 2026]![Figure 2 19 January 2026](https://github.com/user-attachments/assets/9088cf22-d305-4452-bdf0-017e5a2b4496)
+![Doppler Spectrogram of WWV 10 MHz at N6RFM on 19 January 2026](https://github.com/user-attachments/assets/9088cf22-d305-4452-bdf0-017e5a2b4496)
 
 * A.	~ 0000-0200 One-hop F region propagation showing a Travelling Ionospheric Disturbance (TID). Evidence for a travelling disturbance is that the pattern here is delayed by 23 minutes compared with the Doppler variation at [N5TNL](https://pswsnetwork.caps.ua.edu/observations/select_download_range/142094/) in EM25ui 375 km to the NE. 
 * B.	~0100 Short lived two-hop F region propagation opening as the electron density temporarily increases during the downward part of the TID cycle (Griffiths, 2025)
@@ -33,5 +33,16 @@ On January 18, 2026, the Sun produced a long-duration [X1.9-class solar flare](h
 * G.	~ 2030-0000 Impact of the CME from the 18 Jan 2026 X1.9-class solar flare resulting in dramatic off-scale variations in Doppler shift. At ~2017 G1 is the response of the two-hop F region ray, with its first hop further north than the one-hop F region path and both reflections higher in the ionosphere than the one-hop. At G2 one-hop F region propagation persists with minimal Doppler until ~2041 G3 when the one-hop F region ray is affected by the disturbance. G4 is possibly the high elevation ray starting with off-scale Doppler, reducing, and meeting the lower elevation Doppler value. There is a short gap in one-hop F region propagation before a weak Doppler half-cycle returning to 'normal' G5 before an off-scale negative pulse at G6. During this time E region propagation appears to be unaffected, with near-zero Doppler, G7.
   
 While it is common to assume Doppler shift to be caused by vertical motion of the height of reflection, e.g. as at dawn and dusk or due to a TID, Doppler can also be caused by a change to the electron density (Chum et al., 2018). Attribution of these observed changes in Doppler to vertical motion and changes in electron density is a research question worthy of in-depth analysis.
+
+#### 20 January 2026 (prior day sunset 2349 UTC sunrise 1330 UTC)
+![Figure 3 20 January 2026](https://github.com/user-attachments/assets/d4f69719-eb67-4d1d-b92d-3f2fa9379c4f)
+
+* A.	~ 0000-0245 one-hop and, until ~ 0130, weak two-hop F region propagation.  Just before the band closes there is a brief appearance of the higher ray with negative and reducing Doppler shift A1.
+* B.	The band briefly closes and ~ 0300 re-opens until ~ 0530 with near-zero Doppler shift sporadic E propagation. The Austin ionosonde showed a distinct Es layer from 0245–0555.
+* C.	Weaker lower amplitude (yellow) traces likely represent two-hop side scatter F region propagation, which diminishes then disappears ~ 1000.  Two-hop sidescatter can occur from multiple ground and or sea regions, hence several traces are not uncommon. These observations deserve an in-depth study including simple PyLap ray trace modeling (Griffiths et al., 2023).
+* D.	~ 1000-1500 10 MHz propagation is closed, with fine-line artifacts visible.
+* E.	 ~1500 Start of near-zero Doppler shift E region propagation, persisting until ~2200.
+* F.	 ~1730 abrupt F region propagation start at ~ 1730 with over 2 Hz Doppler shift. At four hours after local sunrise this is not the usual morning event (as on the 19th): it is unusual and deserves in-depth study to understand how/why the geomagnetic storm delayed normal band opening time (reduced electron density?).  ~1800 lower-amplitude two-hop propagation begins (F1) with significant Doppler shift. Why there is such a radical difference in Doppler shift variations for the one-hop and two-hop paths truly deserves an in-depth study. One hypothesis to test is whether the one-hop path was perhaps via the F1 layer at the base of the F region and the two-hop path via the higher F2 layer. The associated hypothesis is that the F1 layer behaves more like the E region with less Doppler variation than via the F2 layer.
+
 
 
