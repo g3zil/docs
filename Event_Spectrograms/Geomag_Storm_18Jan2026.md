@@ -1,16 +1,19 @@
-### Contribution Details
-#### Title: Analysis of Grape-1 DRF data for the January 18, 2026 X1.9-class solar flare induced geomagnetic storm
-#### Contributed by: Robert Mattaliano, N6RFM and Gwyn Griffiths, G3ZIL
-#### Reviewed by:
-#### Receiving Station Location
-Keller, TX EM12jw (near Fort Worth, TX)
-#### Receiving Station Details
+### Geomagnetic Storm 18 January 2026
+Title: Analysis of Grape-1 DRF data for the January 18, 2026 X1.9-class solar flare induced geomagnetic storm
+
+Contributed by: Robert Mattaliano, N6RFM and Gwyn Griffiths, G3ZIL
+
+Reviewed by:
+
+Receiving Station Location: Keller, TX EM12jw (near Fort Worth, TX)
+
+** Receiving Station Details **
 Half wave dipole for the 30M amateur radio band mounted at 10 feet and oriented east to west. The antenna is equipped with a 1:1 choke/balun at the feed-point (N9SAB Aetherwave Antenna). Signals are routed using LMR-195 coax to a lightning arrestor/surge protector (Riotaxy) followed by a 10.7 MHz center frequency, 2 MHz bandwidth pass band filter (Mini Circuits SBP 10.7+) then to the Grape-1 DRF receiver.  Receiver audio output is passed through a ground loop noise isolator (Besign). Audio levels are further adjusted using an in-line volume control (Volbox) and routed to an external soundcard (Behringer UCA202). Soundcard audio output is processed using a GNURadio [flowgraph](https://hamsci.org/grape1-drf-docs/) which includes a 25 Hz low pass filter. Resulting data are stored in the [Digital RF format](https://github.com/MITHaystack/digital_rf). The plots in this note were prepared using [plotspectrum_V4a.py](https://github.com/HamSCI/DRF_processing).
 
-#### Brief Introduction 
+** Brief Introduction **
 On January 18, 2026, the Sun produced a long-duration [X1.9-class solar flare](https://www.swpc.noaa.gov/news/x-class-flare-activity-observed-18-january-2026). This strong flare launched a full-halo coronal mass ejection (CME) directed toward Earth. The results below were obtained just prior to, during and after this space weather event. The data were collected by a station in Keller, Texas (grid square EM12jw, near Fort Worth) while monitoring WWV on 10 MHz from Fort Collins, Colorado. The separation distance is approximately 1100 kilometers (about 680 miles). This means that signals from WWV in Fort Collins to north Texas travel through the D and E and often the F ionospheric regions. This distance also explains why both day/night and space-weather effects are observed along that path in the resulting spectrograms. 
 
-#### 18 January 2026 (prior day sunset 2347 UTC sunrise 1330 UTC)
+** 18 January 2026 (prior day sunset 2347 UTC sunrise 1330 UTC) **
 
 ![Doppler Spectrogram of WWV 10 MHz at N6RFM on 18 January 2026](https://github.com/user-attachments/assets/121350de-a827-4c6f-8ecf-fe1d9a3decb8)
 
@@ -21,7 +24,7 @@ On January 18, 2026, the Sun produced a long-duration [X1.9-class solar flare](h
 * E.	~ 1400- 1930 F region propagation path open, then closes, but with very weak two-hop sidescatter persisting, then reopens. 
 * F.	~ 2030-2345 First, weak E region propagation with near-zero Doppler, then both F region one-hop (red) and weaker and more variable (yellow) propagation is observed.  The latter is consistent with two-hop F region propagation.
 
-#### 19 January 2026 (prior day sunset 2348 UTC sunrise 1330 UTC)
+** 19 January 2026 (prior day sunset 2348 UTC sunrise 1330 UTC) **
 ![Doppler Spectrogram of WWV 10 MHz at N6RFM on 19 January 2026](https://github.com/user-attachments/assets/9088cf22-d305-4452-bdf0-017e5a2b4496)
 
 * A.	~ 0000-0200 One-hop F region propagation showing a Travelling Ionospheric Disturbance (TID). Evidence for a travelling disturbance is that the pattern here is delayed by 23 minutes compared with the Doppler variation at [N5TNL](https://pswsnetwork.caps.ua.edu/observations/select_download_range/142094/) in EM25ui 375 km to the NE. 
@@ -34,7 +37,7 @@ On January 18, 2026, the Sun produced a long-duration [X1.9-class solar flare](h
   
 While it is common to assume Doppler shift to be caused by vertical motion of the height of reflection, e.g. as at dawn and dusk or due to a TID, Doppler can also be caused by a change to the electron density (Chum et al., 2018). Attribution of these observed changes in Doppler to vertical motion and changes in electron density is a research question worthy of in-depth analysis.
 
-#### 20 January 2026 (prior day sunset 2349 UTC sunrise 1330 UTC)
+** 20 January 2026 (prior day sunset 2349 UTC sunrise 1330 UTC) **
 ![Figure 3 20 January 2026](https://github.com/user-attachments/assets/d4f69719-eb67-4d1d-b92d-3f2fa9379c4f)
 
 * A.	~ 0000-0245 one-hop and, until ~ 0130, weak two-hop F region propagation.  Just before the band closes there is a brief appearance of the higher ray with negative and reducing Doppler shift A1.
@@ -44,7 +47,7 @@ While it is common to assume Doppler shift to be caused by vertical motion of th
 * E.	 ~1500 Start of near-zero Doppler shift E region propagation, persisting until ~2200.
 * F.	 ~1730 abrupt F region propagation start at ~ 1730 with over 2 Hz Doppler shift. At four hours after local sunrise this is not the usual morning event (as on the 19th): it is unusual and deserves in-depth study to understand how/why the geomagnetic storm delayed normal band opening time (reduced electron density?).  ~1800 lower-amplitude two-hop propagation begins (F1) with significant Doppler shift. Why there is such a radical difference in Doppler shift variations for the one-hop and two-hop paths truly deserves an in-depth study. One hypothesis to test is whether the one-hop path was perhaps via the F1 layer at the base of the F region and the two-hop path via the higher F2 layer. The associated hypothesis is that the F1 layer behaves more like the E region with less Doppler variation than via the F2 layer.
 
-#### 21 January 2026 (prior day sunset 2350 UTC sunrise 1330 UTC)
+** 21 January 2026 (prior day sunset 2350 UTC sunrise 1330 UTC) **
 ![Figure 4 21 January 2026](https://github.com/user-attachments/assets/378a4789-9697-470e-81c1-d64c3649534b)
 
 * A.	~0000-0030 Propagation effectively ends with dramatic negative Doppler
@@ -54,7 +57,7 @@ While it is common to assume Doppler shift to be caused by vertical motion of th
 * E.	~1315 Near-zero Doppler indication propagation via the E region and persisting for the rest of the day.
 * F.	 One-hop propagation via the F region begins at normal time, and persists throughout the day. The weaker trace F1 is the higher elevation ray. F2 is two-hop via the F region and persists as a weak trace throughout the day.
 
-#### 22 January 2026 (prior day sunset 2350 UTC sunrise 1329 UTC)
+** 22 January 2026 (prior day sunset 2350 UTC sunrise 1329 UTC) **
 ![Figure 5 22 January 2026](https://github.com/user-attachments/assets/a346f01e-2646-4152-9fad-d8e49802f70f)
 
 * A.	~ 0000-0045 One-hop F region propagation path persists then rapidly closes, with A1 being the negative Doppler and reducing higher elevation ray.
@@ -63,7 +66,7 @@ While it is common to assume Doppler shift to be caused by vertical motion of th
 * D.	~1345 band opens with one hop F region propagation that persists through the day with D1 being the higher elevation ray. D2 is two-hop F region propagation that also persists through the day. Again, we have the question of why there is greater Doppler variability (TID?) on the higher altitude two-hop path than the lower altitude one-hop path.
 * E.	It is not clear exactly when the E region path opened but it is present from ~1500 until ~ 2200.
 
-#### Summary
+** Summary **
 The spectrograms shown above highlight a variety of changes to the ionosphere observed as a consequence of the long-duration X1.9-class solar flare CME of 18 January 2026 hitting the Earth.  The 10 MHz paths were, as expected, primarily via the F region of the ionosphere.  Other radio wave propagation features included lower amplitude, wider spectral width (fuzzy, ghostly, yellow or green) two-hop F region sidescatter propagation, narrow spectral width near-zero Doppler traces from E-region propagation and disturbances from the CME-induced geomagnetic storm and travelling ionospheric disturbances. 
 The impact and timing of events further indicate that the CME had several effects including:
 * An initial shock wave seen in magnetometer data at ~1920 UTC 19 January 2026.  Easily seen in the (offscale!) 19 January 2026 [Auroral Electroject Index](https://wdc.kugi.kyoto-u.ac.jp/ae_realtime/202601/index_20260119.html) 
@@ -72,7 +75,7 @@ The impact and timing of events further indicate that the CME had several effect
 * Slower travelling components and or follow-on disturbances arriving from ~ 0300-1000 on 20 January 26 and trailing components arriving from ~0500-1000 21 January 2026. 
 * On multiple occasions TIDs were also observed.
 
-#### References
+** References **
 Chum, J. et al., 2018. Continuous Doppler sounding of the ionosphere during solar flares. Earth Planets Space, 70, pp.1-19. [Online](https://link.springer.com/content/pdf/10.1186/s40623-018-0976-4.pdf)
 
 Collins, K., Montare, A., Frissell, N. and Kazdan, D., 2021. Citizen scientists conduct distributed doppler measurement for ionospheric remote sensing. IEEE Geoscience and Remote Sensing Letters, 19, pp.1-5. [Online](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9377452)
