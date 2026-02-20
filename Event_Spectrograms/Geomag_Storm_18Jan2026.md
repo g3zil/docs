@@ -66,11 +66,11 @@ While it is common to assume Doppler shift to be caused by vertical motion of th
 #### Summary
 The spectrograms shown above highlight a variety of changes to the ionosphere observed as a consequence of the long-duration X1.9-class solar flare CME of 18 January 2026 hitting the Earth.  The 10 MHz paths were, as expected, primarily via the F region of the ionosphere.  Other radio wave propagation features included lower amplitude, wider spectral width (fuzzy, ghostly, yellow or green) two-hop F region sidescatter propagation, narrow spectral width near-zero Doppler traces from E-region propagation and disturbances from the CME-induced geomagnetic storm and travelling ionospheric disturbances. 
 The impact and timing of events further indicate that the CME had several effects including:
-● An initial shock wave seen in magnetometer data at ~1920 UTC 19 January 2026.  Easily seen in the (offscale!) Auroral Electroject Index for 19 January 2026 at (https://wdc.kugi.kyoto-u.ac.jp/ae_realtime/202601/index_20260119.html) 
-●	A step change in Doppler shift from the arrival of a disturbance at the (likely) northern location of the first reflection on the two-hop path from WWV to N6RFM at ~2017 UTC.
-●	A step change in Doppler shift from the arrival of a disturbance at the midpoint of the one-hop path from WWV to N6RFM at ~2041 UTC.
-●	Slower travelling components and or follow-on disturbances arriving from ~ 0300-1000 on 20 January 26 and trailing components arriving from ~0500-1000 21 January 2026. 
-●	On multiple occasions, TIDs were also observed.
+* An initial shock wave seen in magnetometer data at ~1920 UTC 19 January 2026.  Easily seen in the (offscale!) 19 January 2026 [Auroral Electroject Index](https://wdc.kugi.kyoto-u.ac.jp/ae_realtime/202601/index_20260119.html) 
+* A step change in Doppler shift from the arrival of a disturbance at the (likely) northern location of the first reflection on the two-hop path from WWV to N6RFM at ~2017 UTC.
+* A step change in Doppler shift from the arrival of a disturbance at the midpoint of the one-hop path from WWV to N6RFM at ~2041 UTC.
+* Slower travelling components and or follow-on disturbances arriving from ~ 0300-1000 on 20 January 26 and trailing components arriving from ~0500-1000 21 January 2026. 
+* On multiple occasions TIDs were also observed.
 
 #### References
 Chum, J. et al., 2018. Continuous Doppler sounding of the ionosphere during solar flares. Earth Planets Space, 70, pp.1-19. [Online](https://link.springer.com/content/pdf/10.1186/s40623-018-0976-4.pdf)
