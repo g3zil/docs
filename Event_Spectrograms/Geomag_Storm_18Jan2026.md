@@ -20,3 +20,18 @@ On January 18, 2026, the Sun produced a long-duration [X1.9-class solar flare](h
 * D.	~ 1345 Dramatic F region one-hop propagation opening close to local sunrise with weaker lower amplitude (D1 yellow) trace likely representing a higher-elevation path.  The positive and reducing Doppler is consistent with morning descending height of reflection. D2, the yellow curl above the one-hop F region Doppler in red, is two-hop F region propagation involving four passes through the D and E region resulting in additional absorption hence a weaker signal. The subsequent yellow trace is variable Doppler via the two-hop mode.
 * E.	~ 1400- 1930 F region propagation path open, then closes, but with very weak two-hop sidescatter persisting, then reopens. 
 * F.	~ 2030-2345 First, weak E region propagation with near-zero Doppler, then both F region one-hop (red) and weaker and more variable (yellow) propagation is observed.  The latter is consistent with two-hop F region propagation.
+
+#### 19 January 2026 (prior day sunset 2348 UTC sunrise 1330 UTC)
+![Doppler Spectrogram of WWV 10 MHz at N6RFM on 19 January 2026]![Figure 2 19 January 2026](https://github.com/user-attachments/assets/9088cf22-d305-4452-bdf0-017e5a2b4496)
+
+* A.	~ 0000-0200 One-hop F region propagation showing a Travelling Ionospheric Disturbance (TID). Evidence for a travelling disturbance is that the pattern here is delayed by 23 minutes compared with the Doppler variation at [N5TNL](https://pswsnetwork.caps.ua.edu/observations/select_download_range/142094/) in EM25ui 375 km to the NE. 
+* B.	~0100 Short lived two-hop F region propagation opening as the electron density temporarily increases during the downward part of the TID cycle (Griffiths, 2025)
+* C.	~ 0200 F region propagation path rapidly closes. C1 is a brief appearance of the higher elevation one-hop F region ray with negative and rapidly reducing Doppler.
+* D.	~ 0200-1330 Weak two-hop F region side-scatter propagation.
+* E.	~1330-1350 Weak near-zero Doppler characteristic of E region propagation.
+* F.	~ 1330 Dramatic F region path opening at local sunrise with short-lived lower amplitude (yellow) upward-curling feature F1, likely a higher-elevation F region path. F2 yellow trace is the two-hop path opening.
+* G.	~ 2030-0000 Impact of the CME from the 18 Jan 2026 X1.9-class solar flare resulting in dramatic off-scale variations in Doppler shift. At ~2017 G1 is the response of the two-hop F region ray, with its first hop further north than the one-hop F region path and both reflections higher in the ionosphere than the one-hop. At G2 one-hop F region propagation persists with minimal Doppler until ~2041 G3 when the one-hop F region ray is affected by the disturbance. G4 is possibly the high elevation ray starting with off-scale Doppler, reducing, and meeting the lower elevation Doppler value. There is a short gap in one-hop F region propagation before a weak Doppler half-cycle returning to 'normal' G5 before an off-scale negative pulse at G6. During this time E region propagation appears to be unaffected, with near-zero Doppler, G7.
+  
+While it is common to assume Doppler shift to be caused by vertical motion of the height of reflection, e.g. as at dawn and dusk or due to a TID, Doppler can also be caused by a change to the electron density (Chum et al., 2018). Attribution of these observed changes in Doppler to vertical motion and changes in electron density is a research question worthy of in-depth analysis.
+
+
