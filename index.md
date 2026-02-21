@@ -13,6 +13,7 @@ more text as necessary
 :caption: Principles of Operation
 
 Principles_of_Operation/GRAPE-1.md
+Principles_of_Operation/GRAPE-2.md
 Principles_of_Operation/WSPRDaemon_GRAPE.md
 ```
 ```{toctree}
