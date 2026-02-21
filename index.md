@@ -15,7 +15,7 @@ more text as necessary
 Principles_of_Operation/GRAPE-1.md
 Principles_of_Operation/WSPRDaemon_GRAPE.md
 ```
-```
+```{toctree}
 :caption: Event Spectrograms
 
 Event_Spectrograms/Geomag_Storm_18Jan2026.md
