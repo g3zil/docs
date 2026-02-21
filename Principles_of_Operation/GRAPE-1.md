@@ -8,7 +8,7 @@ Full details are via these links:
 * [GRAPE-1 digitalRF](https://hamsci.org/grape-1-drf-overview-specifications-sourcing) 
 
 
-#### References
+**References**
 Collins, K., Montare, A., Frissell, N. and Kazdan, D., 2021. Citizen scientists conduct distributed doppler measurement for ionospheric remote sensing. IEEE Geoscience and Remote Sensing Letters, 19, pp.1-5. Online
 
 Collins, K., Gibbons, J., Frissell, N., Montare, A., Kazdan, D., Kalmbach, D., Swartz, D., Benedict, R., Romanek, V., Boedicker, R. and Liles, W., 2022. Crowdsourced Doppler measurements of time standard stations demonstrating ionospheric variability. Earth System Science Data Discussions, 2022, pp.1-21. Online
