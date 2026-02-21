@@ -21,6 +21,11 @@ Principles_of_Operation/WSPRDaemon_GRAPE.md
 
 Event_Spectrograms/Geomag_Storm_18Jan2026.md
 ```
+```{toctree}
+:caption: Lexicon
+
+Lexicon/Lexicon.md
+```
 
 
 
