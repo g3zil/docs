@@ -1,3 +1,7 @@
 .wy-menu-vertical p.caption {
+    font-size: 1em;
+}
+.wy-side-nav-search .wy-dropdown > a,
+.wy-side-nav-search > a {
     font-size: 1.2em;
 }
