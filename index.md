@@ -1,8 +1,10 @@
-### What HamSCI's Personal Space Weather Station Doppler Spectrograms show
+<img width="976" height="206" alt="hamsci" src="https://github.com/user-attachments/assets/b74524ca-f176-4bc9-b2fe-cfe99dc88a2e" />
+
+#### What HamSCI's Personal Space Weather Station Doppler Spectrograms show
 
 Welcome to this guide to the HamSCI PSWS Doppler Spectrograms.
 
-#### Introduction
+##### Introduction
 
 New to HamSCI Personal Space Weather Station Doppler Spectrograms? Start here for a quick overview.
 
