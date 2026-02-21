@@ -1,3 +1,5 @@
+### Lexicon
+
 **Auroral activity** - The natural light displays near Earth’s polar regions. These lights are caused by charged particles from the magnetosphere colliding with Earth’s upper atmosphere.
 
 **Band opening** - The time period when a radio frequency band becomes usable for communication because ionospheric conditions allow radio waves to propagate efficiently.
