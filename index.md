@@ -17,6 +17,11 @@ Principles_of_Operation/GRAPE-2.md
 Principles_of_Operation/WSPRDaemon_GRAPE.md
 ```
 ```{toctree}
+:caption: Feature Spectrograms
+
+Feature_Spectrograms/Dawn_Doppler.md
+```
+```{toctree}
 :caption: Event Spectrograms
 
 Event_Spectrograms/Geomag_Storm_18Jan2026.md
