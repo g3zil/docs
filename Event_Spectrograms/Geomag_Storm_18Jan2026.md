@@ -82,10 +82,6 @@ The impact and timing of events further indicate that the CME had several effect
 
 Chum, J. et al., 2018. Continuous Doppler sounding of the ionosphere during solar flares. Earth Planets Space, 70, pp.1-19. [Online](https://link.springer.com/content/pdf/10.1186/s40623-018-0976-4.pdf)
 
-Collins, K., Montare, A., Frissell, N. and Kazdan, D., 2021. Citizen scientists conduct distributed doppler measurement for ionospheric remote sensing. IEEE Geoscience and Remote Sensing Letters, 19, pp.1-5. [Online](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9377452)
-
-Collins, K., Gibbons, J., Frissell, N., Montare, A., Kazdan, D., Kalmbach, D., Swartz, D., Benedict, R., Romanek, V., Boedicker, R. and Liles, W., 2022. Crowdsourced Doppler measurements of time standard stations demonstrating ionospheric variability. Earth System Science Data Discussions, 2022, pp.1-21. [Online](https://essd.copernicus.org/articles/15/1403/2023/essd-15-1403-2023.pdf)
-
 Griffiths, G., Diehl, D.M., Robinett, R.S. and Rhymes, R.L., 2023. HF Two-hop Sidescatter: Identification, Modeling and Observations of an Underappreciated Propagation Mode. In AGU Fall Meeting Abstracts (Vol. 2023, pp. SA01-01).
 
 Griffiths, G., 2025. Post-sunset sporadic F propagation: A sign of electron density isopleth convergence? HamSCI Workshop, March 2025. [Online](https://hamsci.org/publications/post-sunset-sporadic-f-propagation-sign-electron-density-isopleth-convergence)
