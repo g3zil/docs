@@ -24,6 +24,7 @@ Event_Spectrograms/Geomag_Storm_18Jan2026.md
 ```{toctree}
 :caption: Resources
 
+Resources/Event_Template.md
 Resources/Lexicon.md
 ```
 
