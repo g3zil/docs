@@ -7,16 +7,12 @@ Welcome to this guide to the HamSCI PSWS Doppler Spectrograms.
 New to HamSCI Personal Space Weather Station Doppler Spectrograms? Start here for a quick overview.
 ```{toctree}
 :maxdepth: 2
-:caption: Principles_of_Operation
+:caption: Principles of Operation
 
 Principles_of_Operation/GRAPE-1.md
 Principles_of_Operation/WSPRDaemon_GRAPE.md
-```
 
-### Event Spectrograms
-```{toctree}
-:maxdepth: 2
-:caption: Event_Spectrograms
+:caption: Event Spectrograms
 
 Event_Spectrograms/Geomag_Storm_18Jan2026.md
 ```
