@@ -1,4 +1,4 @@
-### Geomagnetic Storm 18 January 2026
+#### Geomagnetic Storm 18 January 2026
 Title: Analysis of Grape-1 DRF data for the January 18, 2026 X1.9-class solar flare induced geomagnetic storm
 
 Contributed by: Robert Mattaliano, N6RFM and Gwyn Griffiths, G3ZIL
