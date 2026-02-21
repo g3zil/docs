@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'PSWS_Spectrograms'
-copyright = '2026, Gwyn Griffiths'
-author = 'Gwyn Griffiths'
+project = 'Spectrograms'
+#copyright = '2026, Gwyn Griffiths'
+author = 'Bob Mattaliano, Gwyn Griffiths'
 release = '1'
 
 # -- General configuration ---------------------------------------------------
