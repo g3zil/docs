@@ -1,4 +1,4 @@
-<img width="976" height="206" alt="hamsci" src="https://github.com/user-attachments/assets/b74524ca-f176-4bc9-b2fe-cfe99dc88a2e" />
+<img width="244" height="51" alt="hamsci" src="https://github.com/user-attachments/assets/b74524ca-f176-4bc9-b2fe-cfe99dc88a2e" />
 
 #### What HamSCI's Personal Space Weather Station Doppler Spectrograms show
 
