@@ -30,6 +30,9 @@ Feature_Spectrograms/Dawn_Doppler.md
 Event_Spectrograms/Geomag_Storm_18Jan2026.md
 ```
 ```{toctree}
+:caption: Artifacts
+
+Artifacts/Local_oscillator.md
 :caption: Resources
 
 Resources/Event_Template.md
