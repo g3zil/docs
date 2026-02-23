@@ -32,7 +32,9 @@ Event_Spectrograms/Geomag_Storm_18Jan2026.md
 ```{toctree}
 :caption: Artifacts
 
-Artifacts/Local_oscillator.md
+Artifacts/Local_Oscillator.md
+```
+```{toctree}
 :caption: Resources
 
 Resources/Event_Template.md
