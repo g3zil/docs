@@ -21,7 +21,10 @@ Principles_of_Operation/WSPRDaemon_GRAPE.md
 ```
 ```{toctree}
 :caption: Feature Spectrograms
-
+```{toctree}
+:maxdepth: 2
+Feature_Spectrograms/Typical_Spectrogram.md
+Feature_Spectrograms/Surface_Wave.md
 Feature_Spectrograms/Dawn_Doppler.md
 ```
 ```{toctree}
