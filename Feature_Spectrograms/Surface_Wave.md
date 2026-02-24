@@ -1,5 +1,5 @@
 #### Surface Wave
-**Title:** Example of Surface Wave from WWV at 20 MHz
+**Title:** Example of Surface Wave from WWV at 25 MHz
 
 **Contributed by:** Gwyn Griffiths G3ZIL
 
