@@ -1,7 +1,0 @@
-### GRAPE-2 
-The Grape 2 could be considered the 'big brother' of the GRAPE PSWS family. It is capable of receiving three frequencies simultaneously, utilizing a GPS disciplined oscillator for making precise frequency measurements.  A complete GRAPE 2 PSWS system consists of the following: Grape 2 Receiver and Logic PC boards, Teensy microcontroller, Raspberry Pi 4, external hard drive, power supply and two antennas, one for the GPS and one for the time standard frequencies. 
-
-The GRAPE Version 2 hardware was designed by John Gibbons, N8OBJ, Lab Director of the Sears Undergraduate Electrical Design Lab, Case Western Reserve University.
-
-Full details  via this link:
-* [GRAPE-2 fldigi](https://hamsci.org/grape2)
