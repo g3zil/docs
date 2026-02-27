@@ -30,6 +30,7 @@ Feature_Spectrograms/Solar_Eclipse.md
 Feature_Spectrograms/Travelling_Ionospheric_Distirbance.md
 Feature_Spectrograms/Two_Hop_F_Region_Sidescatter.md
 Feature_Spectrograms/Dawn_Doppler.md
+Feature_Spectrograms/BPM_Signal.md
 ```
 ```{toctree}
 :caption: Event Spectrograms
