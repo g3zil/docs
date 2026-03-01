@@ -6,3 +6,20 @@
     font-size: 1.2em !important;
     color: #2980b9 !important;
 }
+/* Increase sidebar width and reduce font size */
+.wy-nav-side {
+    width: 340px; /* default is 300px */
+}
+
+.wy-side-scroll {
+    width: 340px;
+}
+
+.wy-nav-content-wrap {
+    margin-left: 340px;
+}
+
+/* Reduce sidebar text font size */
+.wy-menu-vertical li a {
+    font-size: 12px; /* default is ~14-15px */
+}
