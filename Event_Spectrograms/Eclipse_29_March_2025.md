@@ -46,7 +46,8 @@ While these features are interesting the partial record makes further analysis d
 
 The 15 MHz trace is also partial, in that it ends around the time of peak positive Doppler. As only a single propagation mode was present, this record has been studied in more detail. First it is vital to know which of the three transmitters - WWV, WWVH and BPM - produced this signal. The Chinese station BPM can be eliminated as it stops transmitting at 0900 UTC. The question of WWV or WWVH was answered using [Proppy](https://soundbytes.asia/proppy/p2p), an online implementation of the ITU propagation prediction code [ITU-R P.533-14](https://www.itu.int/dms_pubrec/itu-r/rec/p/R-REC-P.533-14-201908-I!!PDF-E.pdf). From the Proppy output for the paths from WWV and WWVH on 15 MHz the predicted signal levels were plotted, figure below, showing that during the eclipse WWVH, as the strongest signal, was the most likely source. This ties in with the wider, slightly fuzzy trace from the trans-polar propagation path from WWVH.
 
-<img width="850" height="414" alt="image" src="https://github.com/user-attachments/assets/de3f4b18-da72-4f44-97c5-e53b4ce48bba" />
+<img width="425" height="207" alt="image" src="https://github.com/user-attachments/assets/de3f4b18-da72-4f44-97c5-e53b4ce48bba" />
+
 
 ***Propagation path, hops and reflection locations***
 
