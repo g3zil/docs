@@ -48,6 +48,17 @@ The 15 MHz trace is also partial, in that it ends around the time of peak positi
 
 <img width="850" height="414" alt="image" src="https://github.com/user-attachments/assets/de3f4b18-da72-4f44-97c5-e53b4ce48bba" />
 
+***Propagation path, hops and reflection locations***
+
+![Eclipse_29March2025](https://github.com/user-attachments/assets/f92e7671-5692-4256-9140-39c4b87ff419)
+
+PyLap ray tracing showed four-hop propagation for 1100 UTC with a chordal hop between the first and second ioniospheric reflections. (In a chordal hop there is no ground reflection bwteen two ionospheric reflections). From the ray trace both the third and fourth reflections were likely affected by the eclipse. The map shows these reflections at substantially different latitudes and longitudes hence different sun altitudes. Therefore the next step was to calculate an eclipse function.
+
+***Eclipse function***
+
+<img width="562" height="364" alt="image" src="https://github.com/user-attachments/assets/dd8d3e2b-1563-4433-95d3-ab4bfb088bc9" />
+
+The eclipse function is the product of the cosine of the solar zenith angle (the angle between the sun and the vertical) and the eclipse obscuration function (the fraction of the sun's disk obscured). 
 
 
 
