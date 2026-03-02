@@ -19,7 +19,7 @@ This map shows the great circle paths from CHU and WWVH to G4HZX, south east Lon
 
 **CHU 7.85 MHz**
 
-<img width="624" height="322" alt="image" src="https://github.com/user-attachments/assets/5f61ad1f-c106-4e95-9cb2-9db25f99fcdb" />
+<img width="936" height="483" alt="image" src="https://github.com/user-attachments/assets/5f61ad1f-c106-4e95-9cb2-9db25f99fcdb" />
 
 The great circle distance between CHU and G4HZX is 5385 km. The 'S' shape Doppler curve shown in the Feature Spectrogram entry is clearly present between about 0900 and 1100 UTC. In itself this is remarkable: on non-eclipse days in March 2025 7.85 MHz closed across the Atlantic around or before 0900 UTC. Admittedly the signal was weak during the eclipse - see the amplitude trace - but nevertheless this is a useful signal to study. 
 Several observations can be made:
@@ -57,7 +57,7 @@ PyLap ray tracing showed four-hop propagation for 1100 UTC with a chordal hop be
 
 ***Eclipse function***
 
-<img width="562" height="364" alt="image" src="https://github.com/user-attachments/assets/dd8d3e2b-1563-4433-95d3-ab4bfb088bc9" />
+<img width="425" height="275" alt="image" src="https://github.com/user-attachments/assets/dd8d3e2b-1563-4433-95d3-ab4bfb088bc9" />
 
 The eclipse function is the product of the cosine of the solar zenith angle (the angle between the sun and the vertical) and the eclipse obscuration function (the fraction of the sun's disk obscured). 
 
