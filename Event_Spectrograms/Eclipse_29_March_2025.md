@@ -48,18 +48,33 @@ The 15 MHz trace is also partial, in that it ends around the time of peak positi
 
 <img width="425" height="207" alt="image" src="https://github.com/user-attachments/assets/de3f4b18-da72-4f44-97c5-e53b4ce48bba" />
 
-
 ***Propagation path, hops and reflection locations***
 
 ![Eclipse_29March2025](https://github.com/user-attachments/assets/f92e7671-5692-4256-9140-39c4b87ff419)
 
 PyLap ray tracing showed four-hop propagation for 1100 UTC with a chordal hop between the first and second ioniospheric reflections. (In a chordal hop there is no ground reflection bwteen two ionospheric reflections). From the ray trace both the third and fourth reflections were likely affected by the eclipse. The map shows these reflections at substantially different latitudes and longitudes hence different sun altitudes. Therefore the next step was to calculate an eclipse function.
 
-***Eclipse function***
+***Eclipse function and timing coincidence with observed Doppler***
 
-<img width="425" height="275" alt="image" src="https://github.com/user-attachments/assets/dd8d3e2b-1563-4433-95d3-ab4bfb088bc9" />
+<img width="418" height="257" alt="image" src="https://github.com/user-attachments/assets/b0b90b0a-b08e-4203-86e7-dce68cfcb79d" />
 
-The eclipse function is the product of the cosine of the solar zenith angle (the angle between the sun and the vertical) and the eclipse obscuration function (the fraction of the sun's disk obscured). 
+Eclipse times at ray-trace inferred reflection locations and heights (72.75˚N 27.6˚W at 250 km for 3rd reflection and 58.25˚N 4.65˚W at 210 km for 4th reflection) were calculated in a Python script by [Verhulst and Stankov](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JA028088) modified to calculate solar zenith angles at reflection heights. Of course, reflection locations are indicative. Actual locations depend on effective sunspot number and height of reflections on the day. Also important is whether the first two hops were chordal as in PyLap. Nevertheless the time sequence for the 3rd and 4th reflections individually and the additive composite is likely robust.
+
+My hypothesis is that the eclipse Doppler variation with time should follow the composite curve more closely than the individual curves: showing that the signal was Doppler shifted at the 3rd and 4th reflections. The additive curve at the earth’s surface is shown for reference.
+
+![Eclipse_29March2025](https://github.com/user-attachments/assets/069d0ab8-d6e6-4a62-a959-9ee1b035b810)
+
+These three time series plots show 15 MHz WWVH Doppler shift computed using an [autocorrelation algorithm](https://github.com/g3zil/grapeDRF_doppler_model). Recalling that Doppler shift is __rate of change__ of phase path length, plotting the negative __rate of change__ of solar obscuration produces an 'S' curve. I am not looking for a shape match only the timing of maximum negative. As is clear, the observed maximum negative Doppler shift was coincident with the maximum negative rate of change of obscuration for the combined third and fourth reflections, supporting the ray trace prediction that the signal was eclipse-affected at both those reflections.
+
+***Relationships between Doppler shift and Obscuration***
+
+![Eclipse_29March2025](https://github.com/user-attachments/assets/eaebc70c-b945-4722-b84b-6c39c57fd8c9)
+
+On the left are the time series of observed Doppler shift and rate of change of obscuration divided into five regions. On the right is a scatterplot of Doppler shift against the sum of the obscuration factors at the PyLap locations of the two reflections for Regions 2, 3 and 4. Comments and quetions follow:
+
+* <span style="color:red"> ***Region 0:*** </span> 09:00–09:54 Pre-eclipse. Short-period (~6 minute) variations, mean ~ -0.2 Hz.
+* ***Region 1:*** 09:55–10:04 Pre-eclipse but step to more –ve Doppler. Step to more negative Doppler could be in keeping with fluctuations in Region 0. Or, was it induced by another mechanism? Why is the Doppler negative (mean -0.7 Hz), implying rising height of reflection if the dominant process is advection?, Conventionally at this time, it should be positive and reducing.
+* ***Region 2:*** 10:05–10:14 Eclipse only at 4th reflection. The question why the initial Doppler is negative remains. Rate of change with obscuration % at -0.019 Hz/% is less than Region 3 but not by much.
 
 
 
