@@ -16,7 +16,9 @@ While not an 'official' eclipse within the HamSCI [Festivals of Elcipse Ionosphe
 This map shows the great circle paths from CHU and WWVH to G4HZX, south east London, UK together with the eclipse obscuration contours. Both paths cross the 80% obscured contour, although only briefly for WWVH. Note the 11620 km path from WWVH is across the Auroral Oval.
 
 **Results**
+
 **CHU 7.85 MHz**
+
 <img width="624" height="322" alt="image" src="https://github.com/user-attachments/assets/5f61ad1f-c106-4e95-9cb2-9db25f99fcdb" />
 The great circle distance between CHU and G4HZX is 5385 km. The 'S' shape Doppler curve shown in the Feature Spectrogram entry is clearly present between about 0900 and 1100 UTC. In itself this is remarkable: on non-eclipse days in March 2025 7.85 MHz closed across the Atlantic around or before 0900 UTC. Admittedly the signal was weak during the eclipse - see the amplitude trace - but nevertheless this is a useful signal to study. 
 Several observations can be made:
@@ -26,5 +28,6 @@ Several observations can be made:
 The presence of two co-propagating modes makes further analysis more complicated (but it should be done...).
 
 **CHU 14.67 MHz**
+
 ![14 67MHz](https://github.com/user-attachments/assets/7f63ad34-21ad-4163-8c6b-82441bbdaae8)
 
