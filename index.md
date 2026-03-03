@@ -36,7 +36,9 @@ Feature_Spectrograms/BPM_Signal.md
 ```{toctree}
 :caption: Event Spectrograms
 
+Event_Spectrograms/Eclipse_29_March_2025.md
 Event_Spectrograms/Geomag_Storm_18Jan2026.md
+
 ```
 ```{toctree}
 :caption: Artifacts
