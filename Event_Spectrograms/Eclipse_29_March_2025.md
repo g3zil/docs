@@ -50,7 +50,9 @@ The 15 MHz trace is also partial, in that it ends around the time of peak positi
 
 ***Propagation path, hops and reflection locations***
 
-![Eclipse_29March2025](https://github.com/user-attachments/assets/f92e7671-5692-4256-9140-39c4b87ff419)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f92e7671-5692-4256-9140-39c4b87ff419" alt="Eclipse_29March2025" />
+</p>
 
 PyLap ray tracing showed four-hop propagation for 1100 UTC with a chordal hop between the first and second ioniospheric reflections. (In a chordal hop there is no ground reflection bwteen two ionospheric reflections). From the ray trace both the third and fourth reflections were likely affected by the eclipse. The map shows these reflections at substantially different latitudes and longitudes hence different sun altitudes. Therefore the next step was to calculate an eclipse function.
 
@@ -81,14 +83,4 @@ On the left are the time series of observed Doppler shift and rate of change of 
 
 **Conclusion**
 
-The 29 March 2025 partial eclipse over the Atlantic Ocean provided a nice peturbation to the Doppler shift on paths from CHU and WWVH to the UK. While the spectrograms 
-
-
-
-
-
-
-
-
-
-
+The 29 March 2025 partial eclipse over the Atlantic Ocean provided a nice peturbation to the Doppler shift on paths from CHU and WWVH to the UK. While the spectrograms illustrate the Doppler response of the ionosphere through change in Doppler shift the existence of three- and four-hop propagation modes on the CHU 7.85 MHz record and the gap in the CHU 14.67 MHz record leaves the 15 MHz WWVH record as the most complete. The time of maximum negative Doppler on the 15 MHz path was within a minute of the time of maximum rate of change of combined bscuration at the ray-trace inferred locations of the third and fourth reflections. Notable was the difference in slope Doppler shift : Obscuration before and after the maximum rate of change of obscuration during the darkening phase of the eclipse.
