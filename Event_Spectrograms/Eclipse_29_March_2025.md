@@ -60,7 +60,9 @@ PyLap ray tracing showed four-hop propagation for 1100 UTC with a chordal hop be
 
 ***Eclipse function and timing coincidence with observed Doppler***
 
-<img width="418" height="257" alt="image" src="https://github.com/user-attachments/assets/b0b90b0a-b08e-4203-86e7-dce68cfcb79d" />
+<p align="center">
+  <img width="418" height="257" alt="image" src="https://github.com/user-attachments/assets/b0b90b0a-b08e-4203-86e7-dce68cfcb79d" />
+</p>
 
 Eclipse times at ray-trace inferred reflection locations and heights (72.75˚N 27.6˚W at 250 km for 3rd reflection and 58.25˚N 4.65˚W at 210 km for 4th reflection) were calculated in a Python script by [Verhulst and Stankov](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JA028088) modified to calculate solar zenith angles at reflection heights. Of course, reflection locations are indicative. Actual locations depend on effective sunspot number and height of reflections on the day. Also important is whether the first two hops were chordal as in PyLap. Nevertheless the time sequence for the 3rd and 4th reflections individually and the additive composite is likely robust.
 
