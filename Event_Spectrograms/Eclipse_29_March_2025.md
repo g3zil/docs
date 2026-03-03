@@ -26,7 +26,7 @@ Several observations can be made:
 * There are two distinct Doppler traces, signifying two propagation modes were present. The mode with largest Doppler variation was weaker but persisted after the stronger mode ended.
 * PyLap ray tracing showed the two modes to be three- and four-hop F region propagation: three-hop being the stronger (fewer reflections and crossings of the high absorption D region).
 * The signal level increased around the time of maximum obscuration, that is, around the zero-Doppler up-crossing. Reduced solar UV radiation from the sun led to reduced ionisation in the D region, reducing absorption hence the increased signal level.
-* 
+  
 The presence of two co-propagating modes makes further analysis complicated (but it should be done...).
 
 **CHU 14.67 MHz**
