@@ -12,7 +12,7 @@
 
 **Feature Description**
 
-<img width="1416" height="384" alt="image" src="https://github.com/user-attachments/assets/8e889467-e018-437b-9f64-125dc5a63a44" />
+<img width="1416" height="300" alt="image" src="https://github.com/user-attachments/assets/8e889467-e018-437b-9f64-125dc5a63a44" />
 
 This spectrogram at 25 MHz from WWV to W2NAF just happens to be from 8 April 2024, the day of the total solar eclipse. Hence the gap in great circle propagation between ~1900 and ~2015 UTC. Those examining this spectrogram as part of eclipse studies noticed the very small curls as the band opened just after 1400 UTC and as the eclipse temporarily closed the band at ~1900 UTC. What were the curls? To traces suggest two propagation paths, both via the F region, from the transmitter to the receiver. Immediately the band opened (or closed) there was only one F region path (for the ordinary ray) but within moments two paths became possible. The two paths had different initial ray elevations (take off angles). They are the so-called 'low ray' - at lower elevation - and a 'high ray' at a higher elevation. The high elevation ray penetrates higher into the ionosphere before being refracted (reflected) back to earth. 
 
