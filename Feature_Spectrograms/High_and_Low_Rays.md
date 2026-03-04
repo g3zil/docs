@@ -1,6 +1,6 @@
 #### High and Low Rays
 
-**Title:** Example of how rays from a high and a low elevation reach a station both via F region reflection
+**Title:** Example of how rays from both high and low take-off angles reach a station via F region reflection
 
 **Contributed by:** Gwyn Griffiths G3ZIL
 
