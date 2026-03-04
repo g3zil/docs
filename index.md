@@ -32,6 +32,7 @@ Feature_Spectrograms/Dawn_Doppler.md
 Feature_Spectrograms/Travelling_Ionospheric_Distirbance.md
 Feature_Spectrograms/Solar_Eclipse.md
 Feature_Spectrograms/BPM_Signal.md
+Feature_Spectrograms/High_and_Low_Rays.md
 ```
 ```{toctree}
 :caption: Event Spectrograms
