@@ -1,7 +1,7 @@
 [← Back to Home](../index.md)
-#### Local Oscillator: Precision
+#### Precision Local Oscillator
 
-**Title:** Spurious zero-Doppler trace from local high precision oscillator and an unknown spurious trace
+**Title:** Spurious zero-Doppler trace from a local high precision oscillator and an unknown spurious trace
 
 **Contributed by:** Gwyn Griffiths G3ZIL
 
