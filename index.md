@@ -3,13 +3,13 @@
 
 #### An Atlas of what HamSCI's Personal Space Weather Station Doppler Spectrograms show
 
-Welcome to this guide to the HamSCI PSWS Doppler Spectrograms.
+Welcome to this guide to the HamSCI PSWS Doppler Spectrograms, an initiative of Bob Mattaliano N6RFM.
 
 ##### Introduction
 
-New to HamSCI Personal Space Weather Station Doppler Spectrograms? Start here for a quick overview.
+New to HamSCI Personal Space Weather Station Doppler Spectrograms? Or an old hand but intrigued by some of the peculiar features? Check out the events and features from the Atlas.
 
-more text as necessary
+You can delve straight into the features, or you may want a refresh on the Principles of Operation in the summaries below.
 
 ```{toctree}
 :maxdepth: 2
