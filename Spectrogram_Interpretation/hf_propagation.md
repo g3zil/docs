@@ -3,11 +3,11 @@
 *A practical summary for Grape spectrogram interpretation*
 
 ![Ionospheric layer structure during day and night](../_static/images/figure1_ionospheric_regions.jpg)
-*Ionospheric layer structure during day and night. D, E, and F1 exist only during the day; F2 merges into a single weakened F layer at night.*
+*Ionospheric region structure during day and night. D, E, and F1 exist only during the day; F2 merges into a single weakened F layer at night.*
 
 ## Overview
 
-The ionosphere is comprised of different regions which impact how HF radio waves propagate. During the day, the D, E, F1, and F2 regions are all present; at night, D, E, and F1 collapse rapidly, leaving only a single weakened F layer.
+The ionosphere is comprised of different regions which impact how HF radio waves propagate. During the day, the D, E, F1, and F2 regions are all present; at night, D, E, and F1 collapse rapidly, leaving only a single weakened F region.
 
 ## D Region (roughly 35–55 miles / 60–90 km up)
 
@@ -25,15 +25,15 @@ The D region appears rapidly at sunrise as Lyman-alpha starts ionizing NO, peaks
 
 ## E Region (roughly 60 miles / 90–150 km up)
 
-Forms during the day when sunlight ionizes the upper atmosphere. The E region is dominated by molecular ions (O₂⁺ and NO⁺), which recombine rapidly through *dissociative recombination* — an electron joins the molecular ion and the molecule splits apart, carrying away the energy. Time constants are on the order of minutes, so the E layer essentially switches off within half an hour to an hour after sunset. It can reflect HF signals up to around 20 MHz, covering distances up to about 1,200 miles (2,000 km) in a single hop. Because the layer sits at a stable height, Doppler shifts on a Grape spectrogram tend to be small and steady.
+Forms during the day when sunlight ionizes the upper atmosphere. The E region is dominated by molecular ions (O₂⁺ and NO⁺), which recombine rapidly through *dissociative recombination* — an electron joins the molecular ion and the molecule splits apart, carrying away the energy. Time constants are on the order of minutes, so the E region essentially switches off within half an hour to an hour after sunset. It can reflect HF signals up to around 20 MHz, covering distances up to about 1,200 miles (2,000 km) in a single hop. Because the layer sits at a stable height, Doppler shifts on a Grape spectrogram tend to be small and steady.
 
-Sporadic-E is the interesting exception — dense patches that can suddenly appear, mostly in late spring and early summer with a smaller winter peak. These can reflect much higher frequencies (all the way into VHF on occasion) and produce strong, stable signals that sound almost local despite coming from hundreds of miles away.
+Sporadic-E is the interesting exception — dense patches that can suddenly appear, mostly in late spring and early summer with a smaller winter peak. These can reflect much higher frequencies (all the way into VHF on occasion) and produce strong, low and stable signals that sound almost local despite coming from hundreds of miles away.
 
 ## F Region (roughly 100–300 miles / 150–500 km up)
 
 During the day, the F region splits into two parts called F1 and F2; at night they merge into a single F region. F2 is dominated by atomic ions (O⁺), which recombine *slowly* because the process requires two steps: the atomic ion must first react with a neutral molecule (N₂ or O₂) to form a molecular ion, which can then recombine with an electron. The bottleneck is the low density of neutral molecules at F layer altitude — there simply aren't many partners available — so time constants stretch out to hours rather than minutes.
 
-This slow recombination is why F2 keeps working through the night, gradually weakening until dawn. Its peak frequency typically drops from 8–12 MHz during the day down to 3–6 MHz before sunrise, and when it falls below your operating frequency, the signal disappears. F2 is the main region for long-distance HF, supporting the highest frequencies and single hops up to about 2,500 miles (4,000 km). It's also much more dynamic than E — Doppler shifts of ±1 Hz or more are common because the layer height moves around in response to solar heating, geomagnetic activity, and atmospheric waves called TIDs (Traveling Ionospheric Disturbances). Sunrise and sunset produce characteristic sharp Doppler spikes as the layer rapidly changes height.
+This slow recombination is why F2 keeps working through the night, gradually weakening until dawn. Its critical frequency typically drops from 8–12 MHz during the day down to 3–6 MHz before sunrise, and when it falls below your operating frequency, the great circle path signal disappears. Critical frequency is the highest frequency reflected back to the earth's surface on a path perpendicular. F2 is the main region for long-distance HF, supporting the highest frequencies and single hops up to about 2,500 miles (4,000 km). It's also much more dynamic than E — Doppler shifts of ±1 Hz or more are common because the layer height moves around in response to solar heating, geomagnetic activity, and atmospheric waves called TIDs (Traveling Ionospheric Disturbances). Sunrise and sunset produce characteristic sharp Doppler spikes as the frequency-dependent layer reflection height within the layer rapidly changes height.
 
 ![Electron density vs. altitude showing D, E, F1, and F2 region peaks](../_static/images/figure2_electron_density.jpg)
 *Electron density vs. altitude showing the characteristic peaks of the D, E, F1, and F2 regions. F1 is a ledge rather than a true peak during most conditions.*
@@ -63,6 +63,6 @@ On a Grape display, the E trace is steadier and closer to zero Doppler; the F tr
 
 ## Further Reading
 
-- Davies, K. (1990). *Ionospheric Radio*. The classic reference for HF propagation and ionospheric physics.
-- Eddy, J. (2010). *The Sun, The Earth and Near Earth Space: A Guide to the Sun-Earth System.* Useful but less technical description of space weather and its ramifications.
-- Silver, W. (2023). *Here to There: Radio Wave Propagation.* Practical guide to understanding what's going on in the ionosphere and radio wave propagation.
+- Davies, K. (1990). *Ionospheric Radio*. The classic reference for HF propagation and ionospheric physics. [Available at archive.org](https://archive.org/details/IonosphericRadioPropagation)
+- Eddy, J. (2010). *The Sun, The Earth and Near Earth Space: A Guide to the Sun-Earth System.* Useful but less technical description of space weather and its ramifications. [Available at archive.org](https://archive.org/details/sunearthneareart0000eddy)
+- Silver, W. (2023). *Here to There: Radio Wave Propagation.* ARRL Practical guide to understanding what's going on in the ionosphere and radio wave propagation.
