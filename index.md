@@ -17,6 +17,12 @@ You can delve straight into the features, or you may want a refresh on the Princ
 
 ```{toctree}
 :maxdepth: 2
+:caption: Spectrogram Interpretation
+
+Spectrogram_Interpretation/hf_propagation.md
+```
+```{toctree}
+:maxdepth: 2
 :caption: Principles of Operation
 
 Principles_of_Operation/GRAPE-1.md
