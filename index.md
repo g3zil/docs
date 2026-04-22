@@ -7,7 +7,7 @@ Welcome to this guide on the interpretation of HamSCI PSWS Doppler Spectrograms.
 
 We encourage contributions from operators of all types of HamSCI network Personal Weather Stations.  Please contact Gwyn Griffiths (G3ZIL) if you have examples to be considered for addition to the atlas.
 
-Conceived of by Bob Mattaliano (N6RFM), this work was first presented as a poster at the HamSCI 2026 conference together with co-authors Gwyn Griffiths (G3ZIL), Gary Mikitin (A8FA), Dave Swartz ( W0DAS), Mary Lou West (KC2NMC). Credit to Gwyn for creating this Read The Docs style repository!
+Conceived of by Bob Mattaliano (N6RFM), this work was first presented as a poster at the HamSCI 2026 conference together with co-authors Gwyn Griffiths (G3ZIL), Gary Mikitin (A8FA), Dave Swartz ( W0DAS), and Mary Lou West (KC2NMC). Credit to Gwyn for creating this Read The Docs style repository!
 
 ##### Introduction
 
