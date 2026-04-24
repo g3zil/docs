@@ -12,7 +12,8 @@
 
 **Feature Description**
 
-<img width="996" height="1513" alt="S000113_117_2024-05-14T00-00_EN80ee" src="https://github.com/user-attachments/assets/a0b1c9a4-9bed-43e1-a2ec-9b20f5976660" />
+<img width="996" height="1503" alt="S000113_117_2024-05-14T00-00_EN80ee" src="https://github.com/user-attachments/assets/b55bf850-ae50-4a33-87b5-ef8365d26faa" />
+
 
 ***Sudden Ionospheric Disturbance***
 This set of Doppler spectrograms at 15, 20 and 25 MHz from WWV to N8GA on 14 May 2024 is rich in propagation mode features including E and F region one hop and two-hop sidescatter. It is also a nice example of the effect of a Sudden Ionospheric Disturbance (SID) in response to an X8.79 solar flare that [peaked](https://svs.gsfc.nasa.gov/14592/) at 12:51 EDT (16:51 UTC). On all three frequencies the spectrograms and the peak signal level graphs show a precipitous drop at about 16:47 UTC. This was during the sharp increase in free electron production in response to the X-ray radiation causing increased ionisation hence absorption in the D region. Signals had reached the noise level by 16:48:30 UTC, that is, in just 90 seconds. Recovery began after 15 minutes on 25 MHz and after 22 minutes at 20 and 15 MHz, taking over an hour to match the pre-SID level. SIDs from less intense solar flares may not have an effect extending to 25 MHz or may not reduce the signal level to the local noise, but the signal level drop will be sudden.
