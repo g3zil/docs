@@ -29,7 +29,7 @@ On January 18, 2026, the Sun produced a long-duration [X1.9-class solar flare](h
 **19 January 2026 (prior day sunset 2348 UTC, sunrise 1330 UTC)**
 ![Doppler Spectrogram of WWV 10 MHz at N6RFM on 19 January 2026](https://github.com/user-attachments/assets/9088cf22-d305-4452-bdf0-017e5a2b4496)
 
-* A.	~ 0000-0200 One-hop F region propagation showing a Travelling Ionospheric Disturbance (TID). Evidence for a travelling disturbance is that the pattern here is delayed by 23 minutes compared with the Doppler variation at [N5TNL](https://pswsnetwork.caps.ua.edu/observations/select_download_range/142094/) in EM25ui 375 km to the NE. 
+* A.	~ 0000-0200 One-hop F region propagation showing a Travelling Ionospheric Disturbance (TID). Evidence for a travelling disturbance is that the pattern here is delayed by 23 minutes compared with the Doppler variation at [N5TNL](https://pswsnetwork.eng.ua.edu/observations/select_download_range/142094/) in EM25ui 375 km to the NE. 
 * B.	~0100 Short lived two-hop F region propagation opening as the electron density temporarily increases during the downward part of the TID cycle (Griffiths, 2025)
 * C.	~ 0200 F region propagation path rapidly closes. C1 is a brief appearance of the higher elevation one-hop F region ray with negative and rapidly reducing Doppler.
 * D.	~ 0200-1330 Weak two-hop F region side-scatter propagation.
