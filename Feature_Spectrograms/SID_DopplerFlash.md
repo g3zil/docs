@@ -1,6 +1,6 @@
 #### SID and Doppler Flash
 
-**Title:** Example of effect of a Sudden Ionospheric Disturbance (SID) with a Doppler Flash at 15, 20 and 25 MHz from WWV
+**Title:** Example of effect of a Sudden Ionospheric Disturbance (SID) with Doppler Flashes at 14.67 MHz from CHU and 15 and 20 MHz from WWV
 
 **Contributed by:** Gwyn Griffiths G3ZIL
 
