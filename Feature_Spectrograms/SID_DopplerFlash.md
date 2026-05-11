@@ -23,7 +23,7 @@ The sudden increase in free electron production also results in a change in refr
 
 <img width="498" height="345" alt="Hi_Res_N8GA_2024-05-14" src="https://github.com/user-attachments/assets/fc3ab9bc-9e4e-4d93-9db8-5ea077a02d7f" />
 
-With a moderately strong solar flare a lower rate of increase of absorption may allow the associated Doppler flash to be visible directly on the PSWS spectrogram. This wasthe case for the M5.7 flare on 10 May 2026. Starting at 13:19 UTC peaking at 13:39 UTC a Doppler flash followed by a short blackout was observed at 14.67 MHz from CHU and 20 MHz from WWV at the RSGB Propagation Studies Committee site GB0PSC, Baldock UK.
+With a moderately strong solar flare a lower rate of increase of absorption may allow the associated Doppler flash to be visible directly on the PSWS spectrogram. This was the case for the M5.7 flare on 10 May 2026. Starting at 13:19 UTC peaking at 13:39 UTC a Doppler flash followed by a short blackout was observed at 14.67 MHz from CHU and 20 MHz from WWV at the RSGB Propagation Studies Committee site GB0PSC, Baldock UK.
 
 <img width="964" height="252" alt="S000262_334_2026-05-10T00-00_IO92wa_CHU" src="https://github.com/user-attachments/assets/2cbf3dd6-3f4a-44c7-be2a-4e2261ef9723" />
 
