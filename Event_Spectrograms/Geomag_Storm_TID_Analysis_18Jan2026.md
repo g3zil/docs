@@ -1,6 +1,6 @@
 # 18-19 January 2026 X1.9 Flare and Subsequent LSTID
 
-*Bob Mattaliano, N6RFM/5 (EM12jw, Keller TX) and Gwyn Griffiths, G3ZIL*
+*Bob Mattaliano, N6RFM and Gwyn Griffiths, G3ZIL*
 
 ## Overview
 
