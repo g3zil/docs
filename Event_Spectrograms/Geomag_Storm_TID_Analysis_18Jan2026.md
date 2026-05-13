@@ -2,6 +2,10 @@
 
 *Bob Mattaliano, N6RFM and Gwyn Griffiths, G3ZIL*
 
+Title: Analysis of a TID seen during the January 18, 2026 X1.9-class solar flare induced geomagnetic storm
+
+Contributed by: Robert Mattaliano, N6RFM and Gwyn Griffiths, G3ZIL
+
 ## Overview
 
 This case study documents the prompt ionospheric response to the
