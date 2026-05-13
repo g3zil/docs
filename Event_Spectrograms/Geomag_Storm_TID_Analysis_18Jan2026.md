@@ -1,10 +1,10 @@
 # 18-19 January 2026 X1.9 Flare and Subsequent LSTID
 
-*Bob Mattaliano, N6RFM and Gwyn Griffiths, G3ZIL*
+**Title:** Analysis of a TID seen during the January 18, 2026 X1.9-class solar flare induced geomagnetic storm
 
-Title: Analysis of a TID seen during the January 18, 2026 X1.9-class solar flare induced geomagnetic storm
+**Contributed by:** Bob Mattaliano, N6RFM and Gwyn Griffiths, G3ZIL
 
-Contributed by: Robert Mattaliano, N6RFM and Gwyn Griffiths, G3ZIL
+**Reviwed by:**
 
 ## Overview
 
