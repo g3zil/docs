@@ -106,7 +106,7 @@ inside the window shows approximately one full cycle of the dominant
 ~80-minute LSTID wave. Subsequent activity from approximately 13:30
 UTC onward marks the storm main phase.
 ```
-The 00:00–01:15 UTC analysis window used below was identified by
+The 00:00–01:15 UTC analysis window was identified by
 **visual inspection of the reference station's 24-hour Doppler
 spectrogram on 19 January 2026**, rather than by automated detection.
 This is the natural workflow when an event is known to have occurred
@@ -136,7 +136,7 @@ Two practical considerations bounded the window edges:
    begins to fade after approximately 01:18 UTC, which is why the
    selected window ends at 01:15 UTC rather than running longer.
 
-A slow wavetrain with period ~80–100 min and Doppler amplitude
+In the results shown below, a slow wavetrain with period ~80–100 min and Doppler amplitude
 ±0.7–1.5 Hz dominated all four station traces. The waveform shape is
 similar across stations, with AA6BD (NE of N6RFM/5) and AC0G_ND (N)
 clearly leading N6RFM/5, while W7LUX (W) is approximately synchronous
