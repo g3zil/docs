@@ -95,9 +95,6 @@ The post-flare ionosphere remained quiet from approximately 19:00 to
 Doppler oscillations appeared, growing in amplitude through 00:00–01:45
 UTC on 19 January.
 
-```{figure} ../_static/jan2026_lstid/n6rfm_jan19_annotated.png
-:alt: N6RFM/5 Doppler spectrogram, full day 19 January 2026, with 4-station DOA analysis window annotated
-:width: 95%
 The 00:00–01:15 UTC analysis window used below was identified by
 **visual inspection of the reference station's 24-hour Doppler
 spectrogram on 19 January 2026**, rather than by automated detection.
@@ -120,13 +117,17 @@ storm-driven activity beginning in the local afternoon.
 
 Two practical considerations bounded the window edges:
 
-1. **Include enough of the wave to be useful** — at least one full
+1. Include enough of the wave to be useful — at least one full
    cycle, so the pairwise cross-correlations have both rising and
    falling content to lock onto.
-2. **End before the carrier degrades at any station added to the analysis
-   in subsequent steps** — for example, AC0G_ND's SNR
+2. End before the carrier degrades at any station added to the analysis
+   in subsequent steps — for example, AC0G_ND's SNR seen below
    begins to fade after approximately 01:18 UTC, which is why the
-   window ends at 01:15 UTC rather than running longer.
+   selected window ends at 01:15 UTC rather than running longer.
+
+```{figure} ../_static/jan2026_lstid/n6rfm_jan19_annotated.png
+:alt: N6RFM/5 Doppler spectrogram, full day 19 January 2026, with 4-station DOA analysis window annotated
+:width: 95%
 
 **Figure 3.** N6RFM/5 Doppler spectrogram for the full 24 hours of
 19 January 2026, with the 4-station DOA analysis window
