@@ -98,6 +98,35 @@ UTC on 19 January.
 ```{figure} ../_static/jan2026_lstid/n6rfm_jan19_annotated.png
 :alt: N6RFM/5 Doppler spectrogram, full day 19 January 2026, with 4-station DOA analysis window annotated
 :width: 95%
+The 00:00–01:15 UTC analysis window used below was identified by
+**visual inspection of the reference station's 24-hour Doppler
+spectrogram on 19 January 2026**, rather than by automated detection.
+This is the natural workflow when an event is known to have occurred
+(a flare, geomagnetic storm, eclipse, etc.) and the operator wants to
+characterize its ionospheric response.
+
+Looking at the N6RFM/5 spectrogram in Figure 3, the first ~90 minutes
+of the UTC day show an unmistakable slow oscillation in the WWV 10 MHz
+carrier track:
+
+- A negative excursion down to about -0.8 Hz around 00:40 UTC
+- A return through zero near 01:00 UTC
+- A positive peak near +0.6 Hz around 01:13 UTC
+- A return to near-zero by ~01:30 UTC
+
+That is approximately one full cycle of an ~80–100 minute wave — a
+textbook TID signature. The remainder of the day shows unrelated
+storm-driven activity beginning in the local afternoon.
+
+Two practical considerations bounded the window edges:
+
+1. **Include enough of the wave to be useful** — at least one full
+   cycle, so the pairwise cross-correlations have both rising and
+   falling content to lock onto.
+2. **End before the carrier degrades at any station added to the analysis
+   in subsequent steps** — for example, AC0G_ND's SNR
+   begins to fade after approximately 01:18 UTC, which is why the
+   window ends at 01:15 UTC rather than running longer.
 
 **Figure 3.** N6RFM/5 Doppler spectrogram for the full 24 hours of
 19 January 2026, with the 4-station DOA analysis window
