@@ -49,6 +49,7 @@ Feature_Spectrograms/High_and_Low_Rays.md
 ```
 ```{toctree}
 :caption: Event Spectrograms
+:maxdepth: 1
 
 Event_Spectrograms/Eclipse_29_March_2025.md
 Event_Spectrograms/Geomag_Storm_18Jan2026.md
