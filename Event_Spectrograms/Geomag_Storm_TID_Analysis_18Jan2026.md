@@ -158,6 +158,61 @@ W7LUX at 01:05:07, N6RFM/5 at 01:13:14 — span 23 minutes and reveal
 the wave's NE-to-SW propagation directly.
 ```
 
+### Selecting the region of interest
+
+The 00:00–01:15 UTC analysis window used below was identified by
+**visual inspection of the reference station's 24-hour Doppler
+spectrogram on 19 January 2026**, rather than by automated detection.
+This is the natural workflow when an event is known to have occurred
+(a flare, geomagnetic storm, eclipse, etc.) and the operator wants to
+characterize its ionospheric response.
+
+Looking at the N6RFM/5 spectrogram in Figure 3, the first ~90 minutes
+of the UTC day show an unmistakable slow oscillation in the WWV 10 MHz
+carrier track:
+
+- A negative excursion down to about -0.8 Hz around 00:40 UTC
+- A return through zero near 01:00 UTC
+- A positive peak near +0.6 Hz around 01:13 UTC
+- A return to near-zero by ~01:30 UTC
+
+That is approximately one full cycle of an ~80–100 minute wave — a
+textbook TID signature. The remainder of the day shows unrelated
+storm-driven activity beginning in the local afternoon.
+
+Two practical considerations bounded the window edges:
+
+1. **Include enough of the wave to be useful** — at least one full
+   cycle, so the pairwise cross-correlations have both rising and
+   falling content to lock onto.
+2. **End before the carrier degrades at any station** — AC0G/ND's SNR
+   begins to fade after approximately 01:18 UTC, which is why the
+   window ends at 01:15 UTC rather than running longer.
+
+The second constraint is only discovered after the companion stations'
+DRF data has been downloaded and inspected; the first window guess
+based on the reference-station spectrogram alone would have been
+slightly wider. The pipeline is iterative: pick a candidate window
+from the reference station, then refine it once you have the companion
+data in hand.
+
+Once the window is chosen, the two times become the literal parameters
+that drive every later step: the `--start` and `--end` flags of
+`drf_to_doppler.py` when each station's Doppler-vs-time CSV is
+extracted, the `--annotate` argument of `drf_spectrogram.py` for
+producing the annotated figures, and the `event_start_utc` and
+`event_end_utc` fields in the JSON event-config file consumed by
+`tid_doa.py`. For this event those values are
+`2026-01-19T00:00:00Z` and `2026-01-19T01:15:00Z` throughout.
+
+For completeness, the toolkit also includes an automated TID-window
+detector (`tid_window_detector.py`) that scores 24-hour spectrograms
+for wave-like activity. It is useful for cataloguing events from long
+archive runs without prior knowledge of when they occurred. For
+event-driven analysis like this case study — where the timing was
+already constrained by the flare and the wave was visually obvious —
+visual inspection is faster and equally reliable.
+
 ### Cross-correlation pairwise analysis
 
 All six station pairs were cross-correlated over the 00:00–01:15 UTC
