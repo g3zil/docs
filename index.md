@@ -52,7 +52,7 @@ Feature_Spectrograms/High_and_Low_Rays.md
 
 Event_Spectrograms/Eclipse_29_March_2025.md
 Event_Spectrograms/Geomag_Storm_18Jan2026.md
-Event_Spectrograms/Geomag_Storm_TID_Analysis_19Jan2026.md
+Event_Spectrograms/Geomag_Storm_TID_Analysis_18Jan2026.md
 
 ```
 ```{toctree}
